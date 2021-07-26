@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there 👋. Welcome to my profile. 
+ I'm Chucky and I'm learning to become a full stack web developer. I enjoy playing games and creating web apps. Current skills I have are :
+ • React
+ • HTML 
+ • CSS 
+ • Node
 
-<!--
-**chqiu6/chqiu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ... Python, Computer Science, Full stack web development.
+- 👯 I’m looking to collaborate on ... building a web app with React.
+- 🤔 I’m looking for help with ... Computer Science, backend web development and programming. 
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/chucky-qiu/). 
+- 😄 Pronouns: ... He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
