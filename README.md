@@ -1,5 +1,8 @@
  Hi there 👋. Welcome to my profile. 
- I'm Chucky and I'm learning to become a full stack web developer. I enjoy playing games and creating web apps. Current skills I have are :
+
+ I'm Chucky and I'm learning to become a full stack web developer. I enjoy playing games, learning new things and creating web apps. 
+
+ Current skills I have are :
  • React
  • HTML 
  • CSS 
