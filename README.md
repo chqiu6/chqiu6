@@ -8,6 +8,6 @@
  • CSS 
  • Node / Exrpress / Postgres
 
-- 🌱 I’m currently learning or practicing Typescript, TailwindCSS.
+- 🌱 I’m currently learning or practicing Typescript, NextJS, TailwindCSS.
 - 😄 Pronouns: He/Him
 
