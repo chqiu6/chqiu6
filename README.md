@@ -1,17 +1,13 @@
  Hi there 👋. Welcome to my profile. 
 
- I'm Chucky and I'm learning to become a full stack web developer. I enjoy playing games, learning new things and creating web apps. 
+ I'm Chucky and I'm practicing my skills.
 
- Current skills I have are :
- • React
+ Current web dev skills I have are :
+ • ReactJS / Redux 
  • HTML 
  • CSS 
- • Node
+ • Node / Exrpress / Postgres
 
-
-- 🌱 I’m currently learning Python, Computer Science, Full stack web development.
-- 👯 I’m looking to collaborate on building a web app with React.
-- 🤔 I’m looking for help with Computer Science, backend web development and programming. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chucky-qiu/). 
+- 🌱 I’m currently learning or practicing Typescript, TailwindCSS.
 - 😄 Pronouns: He/Him
 
